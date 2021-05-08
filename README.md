@@ -1,5 +1,5 @@
 # Project
-This site it to help point Synapse developers to  technical resources they need.
+This is repo containing the HTML and CSS for https://aka.ms/SynapseForDevelopers.
 
 ## Notes
 - Interested in contributing? See [this guide](CONTRIBUTE.md).
