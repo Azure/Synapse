@@ -49,3 +49,5 @@ table td:first-child {
 }
 
 body, tbody, p { font-size: 10pt ; }
+
+img {vertical-align: middle;}
